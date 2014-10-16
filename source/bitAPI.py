@@ -98,7 +98,7 @@ class bitcoinAPI:
 			confirmed = True
 		else:
 			count = count+1
-		sleep(3)
+		sleep(2)
 	return confirmed
 
 
