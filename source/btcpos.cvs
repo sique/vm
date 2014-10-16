@@ -1,0 +1,158 @@
+2014-08-14 07:16:18 , Main Called
+2014-08-14 07:16:19 , Initialize
+2014-08-14 07:16:19 , Ready
+2014-08-14 07:16:39 , Start transaction
+2014-08-14 07:16:40 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '0.3'} / 0.0005679
+2014-08-14 07:16:42 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT"}
+2014-08-14 07:16:42 , Wait for payment
+2014-08-14 07:16:43 / getBalance / https://blockchain.info/q/addressbalance/1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 0
+2014-08-14 07:16:47 / getBalance / https://blockchain.info/q/addressbalance/1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 0
+2014-08-14 07:16:51 / getBalance / https://blockchain.info/q/addressbalance/1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 0
+2014-08-14 07:16:55 / getBalance / https://blockchain.info/q/addressbalance/1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 1A9xE3ZjeoK9kyrjhFzqQZxiiqz5qeHbwT / 56790
+2014-08-14 07:16:59 , transaction ended
+2014-08-14 07:21:43 , Main Called
+2014-08-14 07:21:43 , Initialize
+2014-08-14 07:21:44 , Ready
+2014-08-14 07:22:02 , Start transaction
+2014-08-14 07:22:03 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '0.2'} / 0.00037857
+2014-08-14 07:22:05 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95"}
+2014-08-14 07:22:05 , Wait for payment
+2014-08-14 07:22:11 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:15 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:19 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:28 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:32 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:36 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:39 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:44 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:48 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:52 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:55 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:22:59 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:04 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:07 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:11 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:15 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:19 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:23 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:27 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:31 / getBalance / https://blockchain.info/q/addressbalance/1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 1A1BE7aY6nE3PNPegBRhyErQrVuqw2UY95 / 0
+2014-08-14 07:23:34 , payment canceled
+2014-08-14 07:23:34 , transaction ended
+2014-08-14 07:23:37 , END
+2014-08-14 07:23:37 , Ready
+2014-08-14 07:26:37 , Start transaction
+2014-08-14 07:26:39 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '1.5'} / 0.00284123
+2014-08-14 07:26:39 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY"}
+2014-08-14 07:26:40 , Wait for payment
+2014-08-14 07:26:40 / getBalance / https://blockchain.info/q/addressbalance/1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 0
+2014-08-14 07:26:44 / getBalance / https://blockchain.info/q/addressbalance/1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 0
+2014-08-14 07:26:48 / getBalance / https://blockchain.info/q/addressbalance/1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 0
+2014-08-14 07:26:52 / getBalance / https://blockchain.info/q/addressbalance/1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 1MM4yxwgGVKM4PoVPURHtR5a69vfrWYRcY / 0
+2014-08-14 07:27:02 , Main Called
+2014-08-14 07:27:02 , Initialize
+2014-08-14 07:27:03 , Ready
+2014-08-14 07:27:16 , Start transaction
+2014-08-14 07:27:22 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '1.2'} / 0.00227299
+2014-08-14 07:27:24 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY"}
+2014-08-14 07:27:24 , Wait for payment
+2014-08-14 07:27:25 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:29 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:33 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:36 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:40 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:44 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:48 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:52 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:27:56 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:00 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:04 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:08 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:12 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:16 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:20 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:24 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:28 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:31 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:36 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:40 / getBalance / https://blockchain.info/q/addressbalance/18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 18NzXfyXez19TfjgvCw5wYcTe8a3WyZQHY / 0
+2014-08-14 07:28:43 , payment canceled
+2014-08-14 07:28:43 , transaction ended
+2014-08-14 07:28:46 , END
+2014-08-14 07:28:46 , Ready
+2014-08-14 07:34:31 , Main Called
+2014-08-14 07:34:31 , Initialize
+2014-08-14 07:34:32 , Ready
+2014-08-14 07:34:49 , Start transaction
+2014-08-14 07:34:50 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '0.5'} / 0.00094658
+2014-08-14 07:34:51 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t"}
+2014-08-14 07:34:51 , Wait for payment
+2014-08-14 07:34:52 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:34:56 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:00 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:04 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:08 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:12 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:17 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:21 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:26 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:30 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:34 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:38 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:42 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:46 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:50 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:53 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:35:57 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:36:01 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:36:05 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:36:09 / getBalance / https://blockchain.info/q/addressbalance/1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 1dpL6TUJc9Y3pKbzND7X5Fi99JdqqY38t / 0
+2014-08-14 07:36:12 , payment canceled
+2014-08-14 07:36:12 , transaction ended
+2014-08-14 07:36:15 , END
+2014-08-14 07:36:15 , Ready
+2014-08-14 07:36:38 , Start transaction
+2014-08-14 07:36:40 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '1'} / 0.00189315
+2014-08-14 07:36:41 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j"}
+2014-08-14 07:36:41 , Wait for payment
+2014-08-14 07:36:42 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:36:46 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:36:51 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:36:54 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:36:58 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:03 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:07 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:11 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:15 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:18 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:22 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:26 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:30 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:34 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:39 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:43 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:47 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:51 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:55 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:37:59 / getBalance / https://blockchain.info/q/addressbalance/1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 1EHRZ6zzJkKYhcknrL68D29ba8ftYW6G4j / 0
+2014-08-14 07:38:02 , payment canceled
+2014-08-14 07:38:02 , transaction ended
+2014-08-14 07:38:05 , END
+2014-08-14 07:38:06 , Ready
+2014-08-14 07:55:52 , Main Called
+2014-08-14 07:55:53 , Initialize
+2014-08-14 07:55:53 , Ready
+2014-08-14 07:55:59 , Start transaction
+2014-08-14 07:56:00 / toBTC / https://blockchain.info/tobtc / {'currency': 'USD', 'value': '1'} / 0.00190462
+2014-08-14 07:56:01 / getNewAddress / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/new_address / {'password': u'789852rs12', 'label': None} / {"address":"1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk"}
+2014-08-14 07:56:02 , Wait for payment
+2014-08-14 07:56:03 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 0
+2014-08-14 07:56:07 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 0
+2014-08-14 07:56:11 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 0
+2014-08-14 07:56:15 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 0
+2014-08-14 07:56:19 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 0
+2014-08-14 07:56:23 / getBalance / https://blockchain.info/q/addressbalance/1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 1DaTZsbhT8t5v1YcEzcuB2Z7CMRA9113dk / 190462
+2014-08-14 07:56:26 / sendPayment / https://blockchain.info/merchant/403ee6d9-a5dc-4346-af64-abb1bf61949f/payment / {'to': u'1wQoAAT8BmnRBoYanKbaD8sys8PqBToy8', 'amount': '140462', 'password': u'789852rs12', 'from': u'403ee6d9-a5dc-4346-af64-abb1bf61949f'} / R
+2014-08-14 07:56:28 , transaction ended
+2014-08-14 07:56:31 , END
+2014-08-14 07:56:31 , Ready
