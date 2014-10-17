@@ -36,15 +36,15 @@ class gui:
             self.qr_panel = Label(self.root,image = photo)
 	    self.qr_panel.image = photo
 	    
-			f=tkFont.Font(family='Helvetica',size=10,weight=tkFont.BOLD)
+    	    f=tkFont.Font(family='Helvetica',size=10,weight=tkFont.BOLD)
 	    self.address_panel = Label(self.root , text = address,font=f)
 	    self.address_panel.configure(background='white')
 
-			f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
+    	    f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
 	    self.bitamount_panel = Label(self.root , text = str(bitamount) + ' BTC',font=f)
 	    self.bitamount_panel.configure(background='white')
 	
-		f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
+	    f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
 	    self.amount_panel = Label(self.root , text = 'price : '+str(amount) + ' USD',font=f)
 	    self.amount_panel.configure(background='white')
 			
