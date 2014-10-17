@@ -130,7 +130,7 @@ class bitcoinAPI:
         message = '' if not message else '&message='+message
         qr_str = 'bitcoin:'+address+'?'+amount + label + message
         im = qrencode.encode(qr_str,3)
-        return im[2].resize((100,100))
+        return im[2].resize((128,128))
 
 
 

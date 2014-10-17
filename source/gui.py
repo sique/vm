@@ -50,9 +50,9 @@ class gui:
 			
 
 	    self.qr_panel.grid(column=0,row=0,columnspan=4,rowspan=3,padx=20,pady=10)
-	    self.address_panel.grid(column=0,row=3,padx=6,pady=3)
+	    self.address_panel.grid(column=0,row=5,padx=6,pady=3)
 	    self.amount_panel.grid(column=0,row=4,padx=6,pady=3)
-	    self.bitamount_panel.grid(column=0,row=5,padx=6,pady=3)
+	    self.bitamount_panel.grid(column=0,row=3,padx=6,pady=3)
 	
 	def endScreen(self,bitamount):
 	    self.root.configure(background='white')
