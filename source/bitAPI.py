@@ -93,12 +93,12 @@ class bitcoinAPI:
     def waitForPayment(self,address,bitamount,confirmations=0):
  	confirmed = False
 	count = 0
-	while not count >= 20 and not confirmed:
+	while not count >= 30 and not confirmed:
 		if self.getAddressBalance(address,confirmations) >= bitamount:
 			confirmed = True
 		else:
 			count = count+1
-		sleep(2)
+		sleep(1)
 	return confirmed
 
 
