@@ -40,19 +40,19 @@ class gui:
 	    self.address_panel = Label(self.root , text = address,font=f)
 	    self.address_panel.configure(background='white')
 
-    	    f=tkFont.Font(family='Helvetica',size=26,weight=tkFont.BOLD)
+    	    f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
 	    self.bitamount_panel = Label(self.root , text = str(bitamount) + ' BTC',font=f)
 	    self.bitamount_panel.configure(background='white')
 	
-	    f=tkFont.Font(family='Helvetica',size=26,weight=tkFont.BOLD)
+	    f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
 	    self.amount_panel = Label(self.root , text = 'price : '+str(amount) + ' USD',font=f)
 	    self.amount_panel.configure(background='white')
 			
 
-	    self.qr_panel.grid(column=0,row=0,columnspan=4,rowspan=3,padx=30,pady=20)
-	    self.address_panel.grid(column=0,row=3,padx=10,pady=3)
-	    self.amount_panel.grid(column=0,row=4,padx=10,pady=3)
-	    self.bitamount_panel.grid(column=0,row=5,padx=10,pady=3)
+	    self.qr_panel.grid(column=0,row=0,columnspan=4,rowspan=3,padx=20,pady=10)
+	    self.address_panel.grid(column=0,row=3,padx=6,pady=3)
+	    self.amount_panel.grid(column=0,row=4,padx=6,pady=3)
+	    self.bitamount_panel.grid(column=0,row=5,padx=6,pady=3)
 	
 	def endScreen(self,bitamount):
 	    self.root.configure(background='white')
@@ -60,7 +60,7 @@ class gui:
             self.end_img_panel = Label(self.root,image = photo,borderwidth=0,pady=100)
 	    self.end_img_panel.image = photo
 
-	    f=tkFont.Font(family='Helvetica',size=16,weight=tkFont.BOLD)
+	    f=tkFont.Font(family='Helvetica',size=10,weight=tkFont.BOLD)
 	    self.end_panel = Label(self.root , text = str(bitamount) + 'BTC payment confirmed',font=f)
 	    self.end_panel.configure(background='white')		
 	    
