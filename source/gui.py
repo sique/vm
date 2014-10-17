@@ -49,10 +49,10 @@ class gui:
 	    self.amount_panel.configure(background='white')
 			
 
-	    self.qr_panel.grid(column=0,row=0,columnspan=4,rowspan=3,padx=40,pady=10)
+	    self.qr_panel.grid(column=0,row=0,columnspan=4,rowspan=3,padx=80,pady=10)
 	    self.address_panel.grid(column=0,row=5,padx=6,pady=3)
-	    self.amount_panel.grid(column=0,row=4,padx=12,pady=3)
-	    self.bitamount_panel.grid(column=0,row=3,padx=12,pady=3)
+	    self.amount_panel.grid(column=0,row=4,padx=40,pady=3)
+	    self.bitamount_panel.grid(column=0,row=3,padx=40,pady=3)
 	
 	def endScreen(self,bitamount):
 	    self.root.configure(background='white')
