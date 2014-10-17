@@ -66,7 +66,8 @@ class bitcoinPOS:
 		qr_image.save('qr.gif')
 		
 		self.gui.clearGUI()
-		self.gui.paymentScreen(qr_image,bitcoinAddress,bitAmt,amt)
+		#self.gui.paymentScreen(qr_image,bitcoinAddress,bitAmt,amt)
+		self.gui.paymentScreen(qr_image,"",bitAmt,amt)
 		
 		print('===check payment - polling===')
 
